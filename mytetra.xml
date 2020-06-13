@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mytetradoc>
+<root>
+ <format subversion="2" version="1"/>
+ <content>
+  <node crypt="0" name="C++" id="1592037436zrk0j8seip">
+   <node crypt="0" name="Общая информация" id="1592037543st6b9ki4wr">
+    <node crypt="0" name="Типы данных" id="1592037593tqz9zzez2d">
+     <recordtable>
+      <record ctime="20200613150647" author="" tags="" dir="1592050007mr0jih05gc" name="Преобразование типов" file="text.html" id="15920500070r9tohnu2c" url=""/>
+     </recordtable>
+    </node>
+    <node crypt="0" name="Литералы" id="159204801265cmr8o5uf"/>
+    <node crypt="0" name="Массивы" id="1592037586v3p76ih77h">
+     <recordtable>
+      <record ctime="20200613145352" author="" tags="" dir="1592049232g6enm67zhh" name="Многомерные динамические массивы" file="text.html" id="15920492320t486waflz" url=""/>
+      <record ctime="20200613145505" author="" tags="" dir="1592049305a40gy9h8mk" name="Массивы указателей на функции" file="text.html" id="1592049305nar6s82u29" url=""/>
+     </recordtable>
+    </node>
+    <node crypt="0" name="Блок-схема" id="1592047925cuuoao17nz"/>
+    <node crypt="0" name="Логические операции" id="15920480456whtlzfilq"/>
+    <node crypt="0" name="Ветвление" id="15920481307sz67u5x6p">
+     <recordtable>
+      <record ctime="20200613143606" author="" tags="" dir="1592048166dtttzee81n" name="if, else if" file="text.html" id="1592048166n2xcqttrkm" url=""/>
+      <record ctime="20200613143622" author="" tags="" dir="1592048182gfpp6tj6dr" name="switch case" file="text.html" id="1592048182hykasjnlpm" url=""/>
+     </recordtable>
+    </node>
+    <node crypt="0" name="Циклы" id="1592048331xb2jju7o04">
+     <recordtable>
+      <record ctime="20200613143901" author="" tags="" dir="1592048341cy0jtk123x" name="while" file="text.html" id="1592048341ia37u18rpp" url=""/>
+      <record ctime="20200613143915" author="" tags="" dir="1592048355zw3e0none1" name="do while" file="text.html" id="1592048355mis5r1nkqh" url=""/>
+      <record ctime="20200613144041" author="" tags="" dir="1592048441hhthekuufm" name="for" file="text.html" id="15920484418k1ua44twb" url=""/>
+      <record ctime="20200613144108" author="" tags="" dir="1592048468u9cexdjhq4" name="break" file="text.html" id="1592048468vd79abyr57" url=""/>
+      <record ctime="20200613144115" author="" tags="" dir="1592048475hlioykz5ih" name="continue" file="text.html" id="15920484753jpn7vkfjf" url=""/>
+     </recordtable>
+    </node>
+    <node crypt="0" name="Генератор случайных чисел (rand)" id="1592048642huy41682xn"/>
+    <node crypt="0" name="Функции" id="1592048671xh7xh2nlph">
+     <recordtable>
+      <record ctime="20200613144443" author="" tags="" dir="1592048683xmo6e5ou6d" name="Передаваемые аргументы" file="text.html" id="1592048683uq1ydyvtm1" url=""/>
+      <record ctime="20200613144453" author="" tags="" dir="15920486938u4qc1ea2q" name="Прототипы функций" file="text.html" id="1592048693yk6tb8s6oe" url=""/>
+      <record ctime="20200613144547" author="" tags="" dir="15920487470ixozt2dy5" name="Перегрузка функций" file="text.html" id="1592048747u6wv8jftwi" url=""/>
+      <record ctime="20200613144556" author="" tags="" dir="15920487562kh0x2pgu4" name="Шаблоны функций" file="text.html" id="15920487563g13n508ua" url=""/>
+     </recordtable>
+    </node>
+    <node crypt="0" name="Область видимости" id="1592048704cg36983bed"/>
+    <node crypt="0" name="Inline" id="1592048729egxu84wgzt"/>
+    <node crypt="0" name="Поиск" id="1592048766o0izjv489n">
+     <recordtable>
+      <record ctime="20200613144631" author="" tags="" dir="1592048791nxanq3f3fe" name="Линейный поиск" file="text.html" id="1592048791mc8pohdq9w" url=""/>
+      <record ctime="20200613144742" author="" tags="" dir="1592048862g1so327ix4" name="Двоичный поиск" file="text.html" id="15920488625lw3njyohy" url=""/>
+     </recordtable>
+    </node>
+    <node crypt="0" name="Сортировка" id="1592048773z0dl5hc1hb">
+     <recordtable>
+      <record ctime="20200613144641" author="" tags="" dir="1592048801jsangqpp44" name="Сортировка выбором" file="text.html" id="15920488019z30xnbgb3" url=""/>
+      <record ctime="20200613144653" author="" tags="" dir="1592048813ghexoy11g4" name="Пузырьковая сортировка" file="text.html" id="15920488131bvvw8tyxe" url=""/>
+      <record ctime="20200613144702" author="" tags="" dir="1592048822nhxsqo43fd" name="Сортировка вставками" file="text.html" id="15920488229yx268so1j" url=""/>
+      <record ctime="20200613144731" author="" tags="" dir="1592048851v4bffsc4a0" name="Быстрая сортировка" file="text.html" id="1592048851ks5bvtuaj8" url=""/>
+     </recordtable>
+    </node>
+    <node crypt="0" name="Рекурсия" id="15920488311fyke8nrap"/>
+    <node crypt="0" name="Статическое и динамическое выделение памяти" id="1592048900c9zb5eea2w"/>
+    <node crypt="0" name="Указатели" id="15920489129ty0c0xsqs">
+     <recordtable>
+      <record ctime="20200613145450" author="" tags="" dir="15920492903sv0aws209" name="Указатели на функции" file="text.html" id="159204929061qwud41pz" url=""/>
+     </recordtable>
+    </node>
+    <node crypt="0" name="Ссылки" id="1592048925xvmjicm2kw"/>
+    <node crypt="0" name="Строки" id="1592048938o32zhu8t1r">
+     <recordtable>
+      <record ctime="20200613144937" author="" tags="" dir="1592048977q4q3yf0tj6" name="Функциии работы со строками" file="text.html" id="1592048977pn2j3y3ega" url=""/>
+     </recordtable>
+    </node>
+    <node crypt="0" name="Перечисляемые типы" id="15920492553qd5p6yra8">
+     <node crypt="0" name="Именованные константы enum" id="1592049272plpkbpeagw"/>
+    </node>
+    <node crypt="0" name="Структуры" id="1592049328ca9ds8gbrv"/>
+    <node crypt="0" name="Классы" id="15920493340gl1mv0l68">
+     <recordtable>
+      <record ctime="20200613150508" author="" tags="" dir="15920499087k3rxi759e" name="Перегруженные конструкторы" file="text.html" id="1592049908nngd8x8cy6" url=""/>
+      <record ctime="20200613150514" author="" tags="" dir="1592049914oed8gmpm0t" name="Указатели на объекты" file="text.html" id="1592049914polaz0o4nm" url=""/>
+      <record ctime="20200613150525" author="" tags="" dir="1592049925pit2cft7gy" name="Указатель this" file="text.html" id="1592049925ie2w0bg0jb" url=""/>
+      <record ctime="20200613150534" author="" tags="" dir="1592049934s34fb0tdc8" name="Конструктор копирования" file="text.html" id="1592049934neyzqz6k24" url=""/>
+      <record ctime="20200613150550" author="" tags="" dir="1592049950ug2pl1rv22" name="Константный метод" file="text.html" id="1592049950hatqssq6uv" url=""/>
+      <record ctime="20200613150558" author="" tags="" dir="1592049958hju0nsbrbr" name="Перегрузка операторов" file="text.html" id="15920499587zhgc9us7d" url=""/>
+      <record ctime="20200613150621" author="" tags="" dir="15920499811vxh4qn7lo" name="Приведение типов " file="text.html" id="1592049981q231pkct42" url=""/>
+      <record ctime="20200613150702" author="" tags="" dir="1592050022jbw5qa1qvd" name="Перегрузка инкремента и декремента" file="text.html" id="1592050022q9jzyeopyl" url=""/>
+      <record ctime="20200613150710" author="" tags="" dir="1592050030xip7p77blb" name="Перегрузка оператора индексирования " file="text.html" id="1592050030o44muvb971" url=""/>
+      <record ctime="20200613150717" author="" tags="" dir="15920500372bmenqi874" name="Оператор &quot;круглые скобки&quot; ()" file="text.html" id="1592050037332kajc60t" url=""/>
+      <record ctime="20200613150729" author="" tags="" dir="1592050049oc4fwmwj48" name="Перегрузка операторов new[], delete, delete[]" file="text.html" id="1592050049w9c0rs6qsb" url=""/>
+      <record ctime="20200613150737" author="" tags="" dir="1592050057bxe5hr7745" name="Дружественные функции" file="text.html" id="15920500574gjvqlb8bk" url=""/>
+      <record ctime="20200613150749" author="" tags="" dir="1592050069yplmc32125" name="Дружественная перегрузка" file="text.html" id="1592050069drf9crghdv" url=""/>
+      <record ctime="20200613150755" author="" tags="" dir="159205007555w8g4we1l" name="Глобальная перегрузка" file="text.html" id="1592050075ogm0tp4zds" url=""/>
+      <record ctime="20200613150803" author="" tags="" dir="1592050083bc634slatd" name="Перегрузка ввода, вывода данных" file="text.html" id="1592050083p2fdeopzmv" url=""/>
+      <record ctime="20200613150815" author="" tags="" dir="1592050095jd2hq20bom" name="Дружественные классы" file="text.html" id="15920500953elnjgt8ra" url=""/>
+      <record ctime="20200613150825" author="" tags="" dir="1592050105onlwsxd2rc" name="Статические члены класса (статические поля, методы)" file="text.html" id="1592050105k3k94yqf14" url=""/>
+      <record ctime="20200613150843" author="" tags="" dir="1592050123m8lr7w9by5" name="Шаблон Singleton" file="text.html" id="15920501235731godnpj" url=""/>
+      <record ctime="20200613150855" author="" tags="" dir="1592050135es1g7ki2e3" name="Перегрузка оператора ->" file="text.html" id="1592050135fqj2ljxwg1" url=""/>
+      <record ctime="20200613150921" author="" tags="" dir="1592050161mo4oj7zbpe" name="Умный указатель(smart pointer)" file="text.html" id="1592050161v83y8kysuj" url=""/>
+      <record ctime="20200613150930" author="" tags="" dir="1592050170ptf4mqwkyr" name="Функции с произвольным количеством и типом аргументов" file="text.html" id="1592050170zc10hwjd4r" url=""/>
+      <record ctime="20200613151213" author="" tags="" dir="15920503339meghga7v7" name="Шаблоны классов" file="text.html" id="1592050333mxeuw8piea" url=""/>
+      <record ctime="20200613151728" author="" tags="" dir="1592050648muwoats5qm" name="Наследование" file="text.html" id="1592050648l1bjjbhix3" url=""/>
+      <record ctime="20200613151751" author="" tags="" dir="1592050671dpn4afbgvq" name="Виртуальные функции" file="text.html" id="1592050671hecnbs2k48" url=""/>
+      <record ctime="20200613151819" author="" tags="" dir="1592050699xyw5y65k4a" name="Абстрактные классы (чисто виртуальные функции)" file="text.html" id="1592050699tls1kbsp2v" url=""/>
+      <record ctime="20200613151829" author="" tags="" dir="15920507093een5rxorx" name="Виртуальный базовый класс" file="text.html" id="1592050709i4rtbpyabh" url=""/>
+      <record ctime="20200613151835" author="" tags="" dir="1592050715la2rvtxt61" name="Чисто виртуальный деструктор " file="text.html" id="1592050715n0pl4ax8t5" url=""/>
+     </recordtable>
+     <node crypt="0" name="Stack" id="15920502884csixbe3px"/>
+     <node crypt="0" name="Queue" id="1592050299s171ubh60k"/>
+     <node crypt="0" name="Односвязный список" id="1592050315bm6qdfirfd"/>
+     <node crypt="0" name="Двусвязный список" id="15920503242my01icoml"/>
+     <node crypt="0" name="Бинарное дерево" id="1592050343r4kjupn47z"/>
+     <node crypt="0" name="Класс auto_ptr" id="15920508275bfu8javko"/>
+     <node crypt="0" name="Класс string" id="1592050842g8bfqg6qgj"/>
+     <node crypt="0" name="Класс vector" id="1592050847uho47qqwf4"/>
+     <node crypt="0" name="Класс list" id="1592050854fsdw2tswn5"/>
+     <node crypt="0" name="Класс map" id="15920508653plmfxquvi"/>
+     <node crypt="0" name="Класс multimap&#xa;" id="1592050877opi9uwql5u"/>
+    </node>
+    <node crypt="0" name="Операторы" id="15920493454f05y9u3d5">
+     <recordtable>
+      <record ctime="20200613145553" author="" tags="" dir="1592049353sh5lizigsf" name="sizeof" file="text.html" id="15920493538i2b668l76" url=""/>
+     </recordtable>
+    </node>
+    <node crypt="0" name="Системы исчисления" id="1592049368luge15reh6"/>
+    <node crypt="0" name="Объединения (union)" id="1592049391qtwgvlw9fh"/>
+    <node crypt="0" name="Битовые поля " id="1592049400ixlbj7qnmq"/>
+    <node crypt="0" name="Препроцессор" id="15920494162b4mo5rbkr"/>
+    <node crypt="0" name="Терминология ООП" id="159204967777uibvfhtz">
+     <recordtable>
+      <record ctime="20200613150129" author="" tags="" dir="1592049689oudlnq432q" name="инкапсуляция, наследование, полиморфизм" file="text.html" id="1592049689w7m9565w58" url=""/>
+      <record ctime="20200613150439" author="" tags="" dir="1592049879j15zmwtwtr" name="Классы, Конструкторы, Деструкторы" file="text.html" id="15920498797mfx977qoy" url=""/>
+      <record ctime="20200613151644" author="" tags="" dir="1592050604zfbfenhqoo" name="Агрегирование и композиция" file="text.html" id="1592050604rjiirag3pt" url=""/>
+      <record ctime="20200613151805" author="" tags="" dir="1592050685z765kw5ofh" name="Раннее и позднее связывание(статический и динамический полиморфизм)" file="text.html" id="15920506854v1cgaq8nd" url=""/>
+     </recordtable>
+    </node>
+    <node crypt="0" name="Работа с файлами и директориями" id="1592050367gatdobxgih">
+     <recordtable>
+      <record ctime="20200613151401" author="" tags="" dir="15920504416h0a82qpk3" name="Использование аргументов коммандной строки" file="text.html" id="1592050441gtnm6oasec" url=""/>
+     </recordtable>
+    </node>
+    <node crypt="0" name="Потоки" id="1592050462plbxskqm1t">
+     <node crypt="0" name="Ввод, вывод данных" id="1592050511e4f2sk6d24"/>
+     <node crypt="0" name="Файловый ввод-вывод" id="1592050558979w24i6fs"/>
+    </node>
+    <node crypt="0" name="Обработка исключительных ситуаций" id="1592050749t8e1iwfe2f">
+     <recordtable>
+      <record ctime="20200613151919" author="" tags="" dir="1592050759jq9dnq6988" name="try, catch, throw" file="text.html" id="15920507591nmc2rhgc4" url=""/>
+     </recordtable>
+    </node>
+    <node crypt="0" name="Пространства имен" id="1592050768bdxfvblixo"/>
+    <node crypt="0" name="Стандартная библиотека шаблонов STL" id="15920507977i7if2vv40">
+     <recordtable>
+      <record ctime="20200613152016" author="" tags="" dir="1592050816mfqfs46c1g" name="Контейнер, итератор, алгоритм, функтор, предикат, аллокатор" file="text.html" id="15920508164f2h2qzc4p" url=""/>
+     </recordtable>
+    </node>
+   </node>
+   <node crypt="0" name="Примеры кода" id="15920376970a97j1acqx">
+    <node crypt="0" name="Домашние задания" id="1592037731rg0a915trd"/>
+    <node crypt="0" name="Работа на уроке" id="1592037740ch7fi6w3xw"/>
+   </node>
+   <node crypt="0" name="Учебные материалы" id="15920375268k7f4es6fb">
+    <node crypt="0" name="Ссылки" id="1592037626odzsowtavz">
+     <node crypt="0" name="Статьи" id="15920468055cb7gkbmuu"/>
+     <node crypt="0" name="Видео" id="1592046813gs5pj383ss"/>
+    </node>
+    <node crypt="0" name="Методические указания" id="15920376376hxqjyv6zi">
+     <node crypt="0" name="Процедурное программирование" id="159203785328bct5ja8o">
+      <recordtable>
+       <record ctime="20200613114834" author="" tags="" dir="15920381143w1lxfmpf6" name="Методички" file="text.html" id="1592038114kutlz6ethy" url="">
+        <files>
+         <file id="1592038231cfja6a351m" fileName="FP_urok_01_1548163013.pdf" type="file"/>
+         <file id="1592042292qtu7jb32lg" fileName="FP_urok_02_1548163055.pdf" type="file"/>
+         <file id="1592042292akcpgysxrn" fileName="FP_urok_03_1566301873_1572984309.pdf" type="file"/>
+         <file id="1592042292doqgkupmwb" fileName="FP_urok_04_1566302006.pdf" type="file"/>
+         <file id="1592042292yyfhwmwnbj" fileName="FP_urok_05_1566302056.pdf" type="file"/>
+         <file id="1592042292x983gtnbg8" fileName="FP_urok_06_1566302082.pdf" type="file"/>
+         <file id="1592042293ynlerond5u" fileName="S_Urok_07_1568974526.pdf" type="file"/>
+         <file id="1592042293r5vcjced0s" fileName="S_Urok_08_1568974560.pdf" type="file"/>
+         <file id="1592042293gcl9cq9rcu" fileName="S_Urok_09_1568974605.pdf" type="file"/>
+         <file id="15920422939tdl7fecyl" fileName="S_Urok_10_1568979477.pdf" type="file"/>
+         <file id="15920422933vwgcbgxwy" fileName="S_Urok_11_1573481294.pdf" type="file"/>
+         <file id="1592042293bsvt1v3e7u" fileName="S_Urok_12_1573481336.pdf" type="file"/>
+         <file id="1592042293h3gl8nhsmk" fileName="S_Urok_13_1573481433.pdf" type="file"/>
+         <file id="15920422935qgldhvojx" fileName="S_Urok_14_1573481468.pdf" type="file"/>
+         <file id="1592042293329ri68ck7" fileName="S_Urok_15_1573481497.pdf" type="file"/>
+         <file id="1592042293e3yedfcklw" fileName="S_Urok_16_1573481528.pdf" type="file"/>
+         <file id="15920422938kzbwzr0er" fileName="S_Urok_17_1573481583.pdf" type="file"/>
+         <file id="1592042293fr2txbozoz" fileName="S_Urok_18_1573481640.pdf" type="file"/>
+        </files>
+       </record>
+      </recordtable>
+     </node>
+     <node crypt="0" name="ООП программирование" id="159203786454vogzar3j">
+      <recordtable>
+       <record ctime="20200613125919" author="" tags="" dir="159204235915lngf93p7" name="Методички" file="text.html" id="1592042359no0vl4phug" url="">
+        <files>
+         <file id="1592046781bhj39n389f" fileName="C___urok_01_1582187953.pdf" type="file"/>
+         <file id="1592046781fqq13e495k" fileName="C___urok_02_1582188000.pdf" type="file"/>
+         <file id="1592046781p3rvtmu412" fileName="C___urok_03_1582188155.pdf" type="file"/>
+         <file id="1592046781z4r0h1qf4v" fileName="C___urok_04_1582193554.pdf" type="file"/>
+         <file id="15920467819w4b7lt94l" fileName="C___urok_05_1582194127.pdf" type="file"/>
+         <file id="1592046781pf3jutxtju" fileName="C___urok_06_2020_1591175951.pdf" type="file"/>
+         <file id="1592046781o3t7p1e6i5" fileName="C___urok_07_2020_1591175983.pdf" type="file"/>
+         <file id="1592046781gi8gnh4ula" fileName="C___urok_08_2020_1589462503.pdf" type="file"/>
+         <file id="1592046781xz1kqp6m8w" fileName="C___urok_09_2020_1_1589463357.pdf" type="file"/>
+         <file id="1592046781xp6a5nf7nu" fileName="C___urok_09_2020_2_1589463408.pdf" type="file"/>
+         <file id="15920467817tt0mzyv5v" fileName="C___urok_10_2020_1589462593.pdf" type="file"/>
+         <file id="1592046781rkrb873uaj" fileName="C___urok_11_2020_1589462665.pdf" type="file"/>
+         <file id="15920467812b88c04s2u" fileName="C___urok_12_2020_1589462719.pdf" type="file"/>
+         <file id="15920467817ragvki37l" fileName="C___urok_13_2020_1589462747.pdf" type="file"/>
+         <file id="1592046781elgup57h2t" fileName="C___urok_14_2020_1589462868.pdf" type="file"/>
+         <file id="1592046781rarx0fyfk3" fileName="C___urok_15_2020_1589463035.pdf" type="file"/>
+        </files>
+       </record>
+      </recordtable>
+     </node>
+    </node>
+    <node crypt="0" name="Книги" id="1592037645cudxaxirz8"/>
+   </node>
+  </node>
+ </content>
+</root>
